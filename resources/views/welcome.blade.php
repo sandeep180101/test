@@ -9,7 +9,7 @@
 body {
     font-family: 'Figtree', sans-serif;
     color: rgb(145, 202, 24);
-    background-image: url("/images/sea.jfif");
+    background-image: url("/images/sea.jpg");
     background-size: cover;
     background-position: center; 
     margin: 0;
